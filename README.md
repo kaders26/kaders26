@@ -17,7 +17,7 @@ I specialize in enhancing marketing strategies with data analytics and predictiv
 
 ## 📫 How to Reach Me  
 💼 [LinkedIn](www.linkedin.com/in/kader-küçükakyüz-399a16254)  
-📩 kaderkucukakyuz@example.com  
+📩 kaderkucukakyuz@gmail.com  
 
 💡 I'm always eager to work on data-driven strategies and optimize business decisions. Let's connect and collaborate! 🚀  
 
