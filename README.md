@@ -2,23 +2,23 @@
 
 🔍 **Data Enthusiast | Digital Marketing Analyst | SQL & Data Analytics**  
 
-Merhaba! Ben Kader, veri odaklı çözümler üretmeyi seven bir dijital pazarlama analisti ve veri tutkunu olarak buradayım. 🚀  
-Yeni nesil pazarlama stratejilerini veri analitiği ile güçlendirerek karar alma süreçlerini optimize etmeye odaklanıyorum.  
+Hello! I'm Kader, a digital marketing analyst and data enthusiast passionate about leveraging data-driven insights to optimize decision-making. 🚀  
+I specialize in enhancing marketing strategies with data analytics and predictive modeling.  
 
-## 💡 What I Do
-- 📊 **E-Ticaret Analitiği**: Müşteri davranışlarını analiz ederek gelecekteki satış tahminleri yapıyorum.  
-- 🛠 **Data Cleaning & Analysis**: Veriyi **SQL** ile temizleyip işleyerek içgörüler çıkarıyorum.  
-- 🔮 **Predictive Modeling**: Gelecekte satış tahmini yapmak için modelleme projeleri geliştiriyorum.  
-- 🖥 **Tools I Use**: SQL (SQL Server, BigQuery), Power BI, Python (Veri Analizi).  
+## 💡 What I Do  
+- 📊 **E-Commerce Analytics**: Analyzing customer behavior to predict future sales trends.  
+- 🛠 **Data Cleaning & Analysis**: Cleaning and processing data using **SQL & Python** to extract valuable insights.  
+- 🔮 **Predictive Modeling**: Building models for sales forecasting and business growth.  
+- 🖥 **Tools I Use**: SQL (SQL Server, BigQuery), Python (Pandas, NumPy, Scikit-Learn), Looker, Tableau, Power BI.  
 
 ## 📌 Ongoing Projects  
-- 📦 **E-Ticaret Müşteri Davranış Analizi**  
-- 📈 **Satış Tahmini Modeli Geliştirme**  
+- 📦 **E-Commerce Customer Behavior Analysis**  
+- 📈 **Sales Forecasting Model Development**  
 
 ## 📫 How to Reach Me  
 💼 [LinkedIn](www.linkedin.com/in/kader-küçükakyüz-399a16254)  
 📩 kaderkucukakyuz@example.com  
 
-💡 Veri odaklı stratejiler geliştirmek ve iş kararlarını optimize etmek için her zaman yenilikçi projeler peşindeyim. Daha fazla bağlantı kurmak için iletişime geçebilirsin! 🚀  
+💡 I'm always eager to work on data-driven strategies and optimize business decisions. Let's connect and collaborate! 🚀  
 
 ---
