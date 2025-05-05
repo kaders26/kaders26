@@ -11,10 +11,6 @@ I specialize in enhancing marketing strategies with data analytics and predictiv
 - 🔮 **Predictive Modeling**: Building models for sales forecasting and business growth.  
 - 🖥 **Tools I Use**: SQL (SQL Server, BigQuery), Python (Pandas, NumPy, Scikit-Learn), Looker, Tableau, Power BI.  
 
-## 📌 Ongoing Projects  
-- 📦 **E-Commerce Customer Behavior Analysis**  
-- 📈 **Sales Forecasting Model Development**  
-
 ## 📫 How to Reach Me  
 💼 [LinkedIn](www.linkedin.com/in/kader-küçükakyüz-399a16254)  
 📩 kaderkucukakyuz@gmail.com  
